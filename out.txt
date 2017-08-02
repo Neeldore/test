@@ -1,0 +1,15 @@
+oltk1	
+olk1	
+10	
+
+
+oltk2	
+olk2	
+20	
+
+
+oltk3	
+olk3	
+30	
+
+
